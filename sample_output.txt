@@ -16,7 +16,7 @@ PID Temperature Controller Simulation
    Time 900.0 sec -> Temperature: 45.030
    
    Results:
-   --------
+   -------
    Settling Time: ~246 seconds
    Overshoot: 0.032°C (0.07%)
    Steady-State Accuracy: ±0.03°C
